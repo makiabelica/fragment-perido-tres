@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amarrillo">#E4E24B</color>
+    <color name="azul">#FF2196F3</color>
+    <color name="black">#FF000000</color>
+    <color name="gris">#FF4242</color>
+    <color name="verde">#FF4CAF50</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">AngieEspinoza</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="saludo_cuarto_fragmento">Cuarto Fragmento</string>
+    <string name="saludo_primer_fragmento">Primer Fragmento</string>
+    <string name="saludo_segundo_fragmento">Segundo Fragmento</string>
+    <string name="saludo_tercer_fragmento">Tercer Fragmento</string>
+    <style name="Base.Theme.AngieEspinoza" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:windowBackground">@color/amarrillo</item>
+    </style>
+    <style name="Theme.AngieEspinoza" parent="Base.Theme.AngieEspinoza"/>
+</resources>

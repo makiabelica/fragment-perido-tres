@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color amarrillo
+color azul
+color black
+color gris
+color verde
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id fragment_container_view
+layout activity_main
+layout fragment_primer_fragmento
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+string saludo_cuarto_fragmento
+string saludo_primer_fragmento
+string saludo_segundo_fragmento
+string saludo_tercer_fragmento
+style Base.Theme.AngieEspinoza
+style Theme.AngieEspinoza
+xml backup_rules
+xml data_extraction_rules
