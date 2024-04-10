@@ -1,74 +1,98 @@
 [
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/layout_fragment_primer_fragmento.xml.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/layout/fragment_primer_fragmento.xml"
+        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/drawable_baseline_people_24.xml.flat",
+        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/drawable/baseline_people_24.xml"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\layout_fragment_primer_fragmento.xml.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\layout\\fragment_primer_fragmento.xml"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/xml_backup_rules.xml.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/drawable/ic_launcher_foreground.xml"
+        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/layout_fragment_cuarto_fragmento.xml.flat",
+        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/layout/fragment_cuarto_fragmento.xml"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/layout_fragment_tercer_fragmento.xml.flat",
+        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/layout/fragment_tercer_fragmento.xml"
+    },
+    {
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/layout_fragment_segundo_fragmento.xml.flat",
+        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/layout/fragment_segundo_fragmento.xml"
+    },
+    {
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/layout_activity_main.xml.flat",
         "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/layout/activity_main.xml"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/menu_menu.xml.flat",
+        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/menu/menu.xml"
     },
     {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
-        "source": "ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\UFG\\.gradle\\daemon\\8.2\\ufg.edu.sv.fis.amb0.angieespinoza.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
     }
 ]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragmento"
+        android:icon="@drawable/baseline_people_24"
+        android:title="@string/item_primer_fragmento"
+        />
+    <item
+        android:id="@+id/fragmento2"
+        android:icon="@drawable/baseline_people_24"
+        android:title="@string/item_segundo_fragmento"
+        />
+    <item
+        android:id="@+id/fragmento3"
+        android:icon="@drawable/baseline_people_24"
+        android:title="@string/item_tercer_fragmento"
+        />
+    <item
+        android:id="@+id/fragmento4"
+        android:icon="@drawable/baseline_people_24"
+        android:title="@string/item_cuarto_fragmento"
+        />
+</menu>
